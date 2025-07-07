@@ -110,6 +110,7 @@ Then automatically stops, with status updated on the LCD
 - Replace LED with **RGB LED** for color-coded status  
 - Include **sensors** for feedback-based motor control  
 - Use **interrupts** or **timers** for advanced multitasking
+
                                                                 
 ![circuit image](https://github.com/user-attachments/assets/5095763a-ea83-4912-bf71-29ec09877246)
 ![Screenshot 2025-07-07 090349](https://github.com/user-attachments/assets/8ef5cc2f-598d-4b86-8781-a67e4de06148)
@@ -117,4 +118,10 @@ Then automatically stops, with status updated on the LCD
 ![Screenshot 2025-07-07 090130](https://github.com/user-attachments/assets/470c5031-2da0-40c5-877f-340ba4d7c326)
 ![Screenshot 2025-07-07 091310](https://github.com/user-attachments/assets/dd2fda18-df41-49da-ae47-69ee6773c84d)
 
-                                                                   "THANK YOU"
+## 🙏 Thank You
+
+Thanks for checking out this project!  
+Feel free to fork it, try the simulation, or suggest improvements via pull request or issue.
+
+[Happy Tinkering! 🚀](https://www.tinkercad.com/)
+                                                                  
