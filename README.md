@@ -117,6 +117,7 @@ Then automatically stops, with status updated on the LCD
 ![Screenshot 2025-07-07 091255](https://github.com/user-attachments/assets/7be3f0de-ee8e-48c2-9eee-0d19d611f690)
 ![Screenshot 2025-07-07 090130](https://github.com/user-attachments/assets/470c5031-2da0-40c5-877f-340ba4d7c326)
 ![Screenshot 2025-07-07 091310](https://github.com/user-attachments/assets/dd2fda18-df41-49da-ae47-69ee6773c84d)
+https://www.tinkercad.com/things/2b0YWh97BXn-interfacingledlcdampmotor?sharecode=mwYxdMeBeZboW57eW3Nt3p_mmr_D0KYxZgwoNowqAB8
 
 ## 🙏 Thank You
 
