@@ -1,4 +1,4 @@
-# LED-LCD-MOTOR-interfacing 
+ 
 This project demonstrates how to interface multiple output devices—LEDs, a 16x2 LCD, and a DC motor—simultaneously using an Arduino Uno or ATmega328P microcontroller. The LEDs blink in sequence while the motor runs and the LCD provides real-time status updates.
 
 The objective is to show how to handle parallel peripheral control in embedded systems and can be a helpful experiment for beginners in electronics and Arduino programming.
@@ -110,6 +110,11 @@ Then automatically stops, with status updated on the LCD
 - Replace LED with **RGB LED** for color-coded status  
 - Include **sensors** for feedback-based motor control  
 - Use **interrupts** or **timers** for advanced multitasking
+                                                                
+![circuit image](https://github.com/user-attachments/assets/5095763a-ea83-4912-bf71-29ec09877246)
+![Screenshot 2025-07-07 090349](https://github.com/user-attachments/assets/8ef5cc2f-598d-4b86-8781-a67e4de06148)
+![Screenshot 2025-07-07 091255](https://github.com/user-attachments/assets/7be3f0de-ee8e-48c2-9eee-0d19d611f690)
+![Screenshot 2025-07-07 090130](https://github.com/user-attachments/assets/470c5031-2da0-40c5-877f-340ba4d7c326)
+![Screenshot 2025-07-07 091310](https://github.com/user-attachments/assets/dd2fda18-df41-49da-ae47-69ee6773c84d)
 
-
-                                                                  "THANK YOU"
+                                                                   "THANK YOU"
